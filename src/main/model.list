@@ -1,0 +1,7 @@
+target/_model		net.dryuf.security.form.LoginForm			entbean
+target/_model		net.dryuf.security.form.RegisterForm			entbean
+target/_model		net.dryuf.security.form.ChangePasswordForm		entbean
+target/_model		net.dryuf.security.form.ForgotPasswordForm		entbean
+target/_model		net.dryuf.security.form.ForgotUpdatePasswordForm	entbean
+
+target/_model		net.dryuf.security.admin.form.AdminTranslationForm	entbean
